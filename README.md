@@ -42,7 +42,18 @@ Se requiere una aplicación donde una persona pueda crear tareas, donde a cada u
 
 ## Requerimientos
 - [ ] Crear un listado de tareas. 
+- [ ] Crear
 
 ## Software necesario
 - [git](https://git-scm.com/)
+- [html](https://developer.mozilla.org/es/docs/Web/HTML)
+- css (escoge alguno)
+    - [bootstrap](https://getbootstrap.com/)
+    - [tailwind](https://tailwindcss.com/)
+    - [pure css](https://purecss.io/)
+    - [bulma](https://bulma.io/)
+    - [foundation](https://get.foundation/)
+    - [skeleton + css puro](http://getskeleton.com/)
+    - [materialize](https://materializecss.com/)
+- [js](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
