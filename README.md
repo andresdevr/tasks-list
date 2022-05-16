@@ -42,7 +42,8 @@ Se requiere una aplicación donde una persona pueda crear tareas, donde a cada u
 
 ## Requerimientos
 - [ ] Crear un listado de tareas. 
-- [ ] Crear
+- [ ] Crear un layout sencillo y agradabla a la vista, inspirarse de (https://www.bootdey.com/snippets/view/bs4-todo-list)
+- [ ] La aplicación debe ser el puro maquetado, es decir la página sin funcionalidad.
 
 ## Software necesario
 - [git](https://git-scm.com/)
@@ -55,5 +56,4 @@ Se requiere una aplicación donde una persona pueda crear tareas, donde a cada u
     - [foundation](https://get.foundation/)
     - [skeleton + css puro](http://getskeleton.com/)
     - [materialize](https://materializecss.com/)
-- [js](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
